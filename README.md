@@ -1,6 +1,4 @@
-# Kashif Anwar
-## Mechatronics Engineer
-## Robotics and AI 
+# Kashif Anwar, Mechatronics Engineer (Robotics and AI) 
 
 ## Projects
 ### Project 1
