@@ -1,3 +1,8 @@
 remote_theme: pages-themes/cayman@v0.2.0
 plugins:
 - jekyll-remote-theme # add this line to the plugins list if you already have one
+title: [Kashif Anwar]
+description: [Mechatronics Engineer with expertise in Robotics and AI. Currently a Research Assistant at the National Centre of Robotics and Automation at EME College NUST.
+This is my portfolio website.]
+show_downloads: [true]
+
